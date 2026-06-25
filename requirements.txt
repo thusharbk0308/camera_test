@@ -1,0 +1,4 @@
+opencv-python
+flask
+picamera2
+numpy
